@@ -7,3 +7,5 @@ Integrated Graphics 630
 Opencore 0.7.4
 
 SMBIOS Values HAVE BEEN REMOVED
+
+Everything working aside from audio.
