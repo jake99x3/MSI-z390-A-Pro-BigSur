@@ -8,4 +8,3 @@ Opencore 0.7.5
 
 SMBIOS Values HAVE BEEN REMOVED
 
-Everything working aside from audio.
