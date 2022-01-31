@@ -9,3 +9,5 @@ Opencore 0.7.8
 SMBIOS Values HAVE BEEN REMOVED
 
 Full Graphics Acceleration!!
+
+Credit to /u/nobbylobo on reddit!
