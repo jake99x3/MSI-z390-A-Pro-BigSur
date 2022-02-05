@@ -28,7 +28,7 @@ Mac OS version:
 
 Kernel version:
 Darwin Kernel Version 20.6.0: Wed Jun 23 00:26:31 PDT 2021; root:xnu-7195.141.2~5/RELEASE_X86_64
-Kernel UUID: FECBF22B-FBBE-36DE-9664-F12A7DD41D3D
+Kernel UUID: xxx
 KernelCache slide: 0x0000000011400000
 KernelCache base:  0xffffff8011600000
 Kernel slide:      0x0000000011410000
